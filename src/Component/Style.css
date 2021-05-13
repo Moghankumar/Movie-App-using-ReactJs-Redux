@@ -1,0 +1,56 @@
+.navbar {
+  padding: 5px 20px;
+}
+.navbar-brand {
+  font-weight: 800;
+  font-style: normal;
+  font-size: 24px;
+}
+.nav-item {
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+}
+.navbar-light .navbar-nav .nav-item .nav-link:hover,
+.navbar-light .navbar-nav .nav-item.active .nav-link {
+  background-color: #0275d8 !important;
+  color: #ffffff !important;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+}
+/* .navbar-light .navbar-nav .nav-item .nav-link {
+  padding: 5px 15px;
+} */
+.HeaderNav {
+  color: black !important;
+  background: none !important;
+}
+
+.list-inline-item .btn-outline-info {
+  color: #0275d8;
+  border: 1px solid #0275d8;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  font-weight: 500;
+}
+.list-inline-item .btn-active {
+  color: #ffffff;
+  background-color: #0275d8;
+  border: 1px solid #0275d8;
+  margin-bottom: 10px;
+  border-radius: 25px;
+  font-weight: 500;
+}
+.text-color {
+  color: #0275d8 !important;
+}
+.text-color2 {
+  color: #5a606b !important;
+}
+.fa-play-circle {
+  font-size: 50px;
+  color: #0275d8 !important;
+  background-color: transparent !important;
+  border: none !important;
+}
